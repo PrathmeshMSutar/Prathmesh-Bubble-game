@@ -22,7 +22,7 @@ Include screenshots or GIFs here if applicable.
 
 ## Author
 
-Your Name
+Prathmesh Sutar
 
 ## License
 
